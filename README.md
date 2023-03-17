@@ -8,4 +8,5 @@ There are three main algorithms that my team has been working on :
 - Recommendation Engine 
 - Inventory Prediction
 - Image Classfication  <br>
-**Note : Here are some demos of models we've been working on (The codes shown here were transformed based on original ones so not the original codes and does not invovle any data from the company ). **
+
+Note : Here are just demos of models we've been working on (The codes shown here were transformed based on original ones so not the original codes and does not invovle any data from the company). 
